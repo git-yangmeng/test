@@ -1,3 +1,0 @@
-this txt is modi by feature_x
-this txt is modi by master
-this txt is modi by featrue_x
